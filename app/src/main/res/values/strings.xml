@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">0204545_ExamenParcial1</string>
+
+    <string name="Value1">Enter value 1</string>
+    <string name="Value2">Enter value 2</string>
+    <string name="Value3">Enter value 3</string>
+
+    <string name="display">You will see your results here</string>
+
+    <string name="clear">Clear</string>
+    <string name="add">Add</string>
+</resources>
